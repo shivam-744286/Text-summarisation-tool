@@ -14,6 +14,9 @@
 
 This project is done using Google colab. It is a online compiler which provide all the libraries available in python. it is a free, browser-based service that allows users to write and execute Python code in a cloud environment
 
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/009f4c60-5a33-491c-b1b0-664b33e2aecc)
+
 The process making this tool is as follows:
 
 At first, we import a special function called pipeline from a library named hugging face transformers these functions gives us an easy access to powerful ai models that can perform different language tasks including summarization. (in first line)
